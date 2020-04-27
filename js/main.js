@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["treated equally？", "discriminated against?", "struggling？", "happy?", "being protected?"],
+      strings: ["treated equally?", "discriminated against?", "struggling?", "happy?", "being protected?"],
       typeSpeed: 90,
       loop: true,
     });
