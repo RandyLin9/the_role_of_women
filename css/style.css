@@ -429,13 +429,13 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-#portfolio .portfolio-container {
+/* #portfolio .portfolio-container {
   display: inline-block;
   margin-bottom: 50px;
   width: 100%;
-}
+} */
 
-.portfolio-thumbnail {
+/* .portfolio-thumbnail {
   margin-bottom: 30px;
   overflow: hidden;
   min-height: 260px;
@@ -443,7 +443,7 @@ nav ul li a {
 
 .portfolio-thumbnail img {
   max-width: 100%;
-}
+} */
 
 /*-----------------------------------------------------------------------------------*/
 /*  Journal
